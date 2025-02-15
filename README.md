@@ -1,8 +1,9 @@
 # **Segment Anything GUI - Tkinter Interface**  
-
 This project provides a **Tkinter-based GUI** for using **Meta’s Segment Anything Model (SAM)**.  
 The application allows users to **import an image, specify segmentation inputs** (points, bounding boxes, or text prompts),  
 and visualize the **segmented output**. A **loading bar** is included to indicate when the model is processing.  
+<img width="912" alt="Screenshot 2025-02-15 at 13 30 54" src="https://github.com/user-attachments/assets/aa9a9019-01d5-4b9b-b1de-a7b0bb9f97fe" />
+<img width="912" alt="Screenshot 2025-02-15 at 13 31 06" src="https://github.com/user-attachments/assets/fff9a320-7147-48bf-9a10-839d41a2db88" />
 
 ---
 
